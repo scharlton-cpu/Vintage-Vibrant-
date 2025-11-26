@@ -36,7 +36,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
               </a>
               <div className="flex items-center gap-3">
                 <Phone size={16} />
-                <span>(555) 123-4567</span>
+                <span>(917)2510608</span>
               </div>
             </div>
           </div>
