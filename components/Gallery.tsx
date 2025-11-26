@@ -3,7 +3,7 @@ import { Camera, MapPin, Wine, Anchor, Music, Sun } from 'lucide-react';
 
 const galleryImages = [
   {
-    url: "https://images.unsplash.com/photo-1590523741831-ab7e8b8f9c7f?q=80&w=1200&auto=format&fit=crop", // Beach Club vibe
+    url: "https://virginvoyages.imgix.net/dam/jcr:551b2f37-0b7e-493c-ac8b-f68d3e548908/IMG-BEACHCLUB-2022-drone-021-extended%201600%C3%97900.png", // Beach Club vibe
     title: "Bimini Beach Club",
     subtitle: "Private island luxury",
     icon: <Sun size={18} />,
@@ -19,7 +19,7 @@ const galleryImages = [
     category: "Dining"
   },
   {
-    url: "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?q=80&w=800&auto=format&fit=crop", // Pool
+    url: "https://virgin.3dseatmapvr.com/SCARLET_LADY/img/spaces/acuatic_club.jpg", // Pool
     title: "Aquatic Club",
     subtitle: "Poolside relaxation",
     icon: <Anchor size={18} />,
@@ -27,7 +27,7 @@ const galleryImages = [
     category: "Onboard"
   },
   {
-    url: "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=800&auto=format&fit=crop", // Spa
+    url: "https://virginvoyages.imgix.net/dam/jcr:ab1224d0-4bee-4d5d-a141-394e65683286/IMG-VAL-2023-wellness-spa-pools-mudroom-sauna-saltroom-31935-1600x1600.jpg", // Spa
     title: "Redemption Spa",
     subtitle: "Mud room & thermal suite",
     icon: <MapPin size={18} />,
@@ -35,8 +35,8 @@ const galleryImages = [
     category: "Wellness"
   },
   {
-    url: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=800&auto=format&fit=crop", // Red party crowd
-    title: "Scarlet Night",
+    url: "https://virginvoyages.imgix.net/dam/jcr:e236d18e-9aca-4205-83d7-56ec06616887/DiscoCircus_504x424.jpg", // Red party crowd
+    title: "Disco Circus",
     subtitle: "Immersive entertainment",
     icon: <Music size={18} />,
     className: "md:col-span-1 md:row-span-1",
