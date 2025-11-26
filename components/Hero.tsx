@@ -8,18 +8,18 @@ interface HeroProps {
 
 const slides = [
   {
-    url: "https://images.unsplash.com/photo-1566375638419-122e260902c5?q=80&w=1200&auto=format&fit=crop", // Celebration/Toasting on boat - more inviting
+    url: "https://virginvoyages.imgix.net/dam/jcr:c1ce5b19-d2ea-4357-b93c-a542f8742860/Resilient%20Lady%20-%20Gallery%2011-12.png", // Celebration/Toasting on boat - more inviting
     label: "Celebrate Life",
     desc: "Cheers to 70 & 80 Years"
   },
   {
-    url: "https://images.unsplash.com/photo-1552858725-2758b5fb1286?q=80&w=1200&auto=format&fit=crop", // Majestic Ship
+    url: "https://virginvoyages.imgix.net/dam/jcr:81a05d8d-932c-4568-ac54-c7160485c829/Resilient%20lady-2252x1266.png", // Majestic Ship
     label: "Resilient Lady",
     desc: "Modern Luxury at Sea"
   },
   {
-    url: "https://images.unsplash.com/photo-1514525253440-b393452e23f0?q=80&w=1000&auto=format&fit=crop", // Scarlet Night
-    label: "Scarlet Night",
+    url: "https://virginvoyages.imgix.net/dam/jcr:9d750829-2ef2-4377-867b-eef844cb8e32/IMG-ENT-the-manor-entrance-V1-s18-048-1600x900.jpg", // Scarlet Night
+    label: "Risilient Night",
     desc: "Paint the Town Red"
   },
   {
