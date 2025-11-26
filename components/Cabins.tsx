@@ -7,7 +7,7 @@ const cabins = [
     desc: "Cozy, quiet, and smartly designed. The perfect retreat if you plan to spend most of your time exploring the ship or partying till dawn.",
     price: "$1,850",
     features: ["Roomy Rainshower", "Mood Lighting", "Transformational Bed"],
-    image: "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?q=80&w=800&auto=format&fit=crop", // Modern cozy interior
+    image: "https://virginvoyages.imgix.net/dam/jcr:2f7288d1-b90f-42cd-b4aa-0ee75cc57aeb/IMG-SCL-2021-CAB-the-insider-interior-bed-configuration-day-UNCROPPED.JPG", // Modern cozy interior
     icon: <BedDouble />
   },
   {
@@ -15,7 +15,7 @@ const cabins = [
     desc: "A window to the world. Watch the waves roll by from the comfort of your personal sanctuary. Perfect for ocean gazers.",
     price: "$2,150",
     features: ["Porthole Window", "Roomy Rainshower", "Mood Lighting"],
-    image: "https://images.unsplash.com/photo-1541971803872-48f19946d7fa?q=80&w=800&auto=format&fit=crop", // Ocean view window
+    image: "https://virginvoyages.imgix.net/dam/jcr:8ff2ac61-7ace-4363-803b-659173334fd4/IMG-SCL-2021-CAB-the-sea-view-interior-bed-configuration-day-UNCROPPED.JPG", // Ocean view window
     icon: <Waves />
   },
   {
@@ -24,7 +24,7 @@ const cabins = [
     price: "$2,450",
     features: ["Private Balcony + Hammock", "Roomy Rainshower", "Configurable Layout"],
     popular: true,
-    image: "https://images.unsplash.com/photo-1617859047452-8510bcf207fd?q=80&w=800&auto=format&fit=crop", // Balcony/Resort vibe
+    image: "https://virginvoyages.imgix.net/dam/jcr:09235b3e-54f1-4b3a-ac01-dfa457419d55/IMG-SCL-2021-CAB-sea-terrace-interior-bed-configuration-day-UNCROPPED.JPG", // Balcony/Resort vibe
     icon: <Sun />
   }
 ];
