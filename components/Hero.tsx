@@ -23,7 +23,7 @@ const slides = [
     desc: "Paint the Town Red"
   },
   {
-    url: "https://images.unsplash.com/photo-1596436889106-be35e843f974?q=80&w=1000&auto=format&fit=crop", // Bimini
+    url: "https://virginvoyages.imgix.net/dam/jcr:707c997a-698d-4bcd-8a4d-1e1230c22a60/IMG-DEST-bimini-port-collage-1200x1440.jpg", // Bimini
     label: "Bimini Beach Club",
     desc: "Private Island Escape"
   }
