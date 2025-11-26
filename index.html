@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vintage & Vibrant Voyage | Xquisite Dream Travel</title>
+    <meta
+      name="description"
+      content="Join the Vintage & Vibrant Voyage, a 5-night adults-only birthday cruise celebration on Virgin Voyages' Resilient Lady."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500&family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              brand: {
+                dark: '#020617', // Rich Slate 950
+                soft: '#1e293b', // Slate 800
+                green: '#059669', // Emerald 600 - Richer, vibrant green
+                yellow: '#F59E0B', // Amber 500 - Warm gold
+                gold: '#FFD700', // Pure Gold
+                orange: '#F97316', // Orange 500 - Bright & energetic
+                red: '#E11D48', // Rose 600 - Vibrant, deep pink-red
+                crimson: '#BE123C', // Rose 700 - Deep, rich wine red
+                burgundy: '#881337', // Rose 900 - Dark luxurious red
+                rose: '#FFF1F2', // Rose 50 - Very light pink background
+              }
+            },
+            fontFamily: {
+              sans: ['"Plus Jakarta Sans"', 'system-ui', '-apple-system', 'sans-serif'],
+              serif: ['"Playfair Display"', 'Georgia', 'serif'],
+            },
+            animation: {
+              'float': 'float 14s ease-in-out infinite',
+              'float-delayed': 'float 16s ease-in-out infinite 4s',
+              'float-slow': 'float 18s ease-in-out infinite 2s',
+              'pulse-slow': 'pulse 8s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+            },
+            keyframes: {
+              float: {
+                '0%, 100%': { transform: 'translateY(0) scale(1)' },
+                '50%': { transform: 'translateY(-20px) scale(1.05)' },
+              },
+              dash: {
+                'to': { strokeDashoffset: '1000' }
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      /* Custom scrollbar for a premium feel */
+      ::-webkit-scrollbar {
+        width: 10px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #fff1f2;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #E11D48;
+        border-radius: 5px;
+        border: 2px solid #fff1f2;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #BE123C;
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "lucide-react": "https://aistudiocdn.com/lucide-react@^0.554.0",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0"
+  }
+}
+</script>
+</head>
+  <body class="bg-slate-50 text-slate-900 font-sans antialiased selection:bg-brand-red selection:text-white">
+    <div id="root"></div>
+  </body>
+</html>
